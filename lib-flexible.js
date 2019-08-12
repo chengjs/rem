@@ -1,3 +1,4 @@
+// flexible.js
 (function flexible (window, document) {
   var docEl = document.documentElement
   var dpr = window.devicePixelRatio || 1
